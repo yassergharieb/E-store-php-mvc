@@ -1,0 +1,30 @@
+<?php
+
+$_['dashboard'] = 'اللوحة الرئيسية';
+$_['app_manager'] = 'مدير تطبيق';
+$_['general_statistics'] = 'الإحصائيات العامة';
+$_['users'] = 'المستخدمين';
+$_['users_groups'] = 'مجموعات المستخدمين';
+$_['users_list'] = 'قائمة المستخدمين';
+$_['users_privileges'] = 'الصلاحيات';
+$_['store'] = 'المخزن';
+$_['store_categories'] = 'أصناف المنتجات';
+$_['store_products'] = 'المنتجات';
+$_['clients'] = 'العملاء';
+$_['suppliers'] = 'الموردين';
+$_['expenses'] = 'المصروفات';
+$_['expenses_categories'] = 'أنواع المصروفات';
+$_['text_expenses_daily_expenses'] = 'المصروفات اليومية';
+$_['transactions'] = 'المعاملات';
+$_['transactions_purchases'] = 'المشتريات';
+$_['transactions_sales'] = 'المبيعات';
+$_['reports'] = 'التقارير';
+$_['notifications'] = 'التنبيهات';
+$_['change_language'] = 'تغيير اللغة';
+$_['profile'] = 'البيانات الشخصية';
+$_['change_password'] = 'تغيير كلمة المرور';
+$_['account_settings'] = 'إعدادات الحساب';
+$_['log_out'] = 'تسجيل الخروج';
+$_['welcome'] = 'مرحبا';
+$_['not_found'] = 'صفحة غير موجودة';
+$_['access_denied'] = 'عفوا انت لا تمتلك صلاحيات الدخول لهذه الصفحة';
